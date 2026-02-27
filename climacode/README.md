@@ -2,5 +2,5 @@
 
 # Techsavvy-climacode
 
-# climacode ctg
+# climacode ct
 
